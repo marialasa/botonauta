@@ -1,4 +1,4 @@
-# Botonauta
-Botonauta —por *bot* y *nauta*, “viajero”— es un bot programado con Python que, para la elaboración de contenido, emplea un prompt de ChatGPT.
+# 🤖 Botonauta
 
-Todos los días, botcito viaja en el tiempo y te recuerda qué evento político tuvo lugar un día como hoy pero en un año aleatorio del pasado. En TwitterX: <a href="[https://medium.com/condolasa/claro-como-el-agua-50d41f3e275f](https://twitter.com/Botonauta)" target="_blank" rel="noopener">@Botonauta.</a>
+<p><a href="https://twitter.com/Botonauta" target="_blank">Botonauta</a> &mdash;por <em>bot</em> y <em>nauta</em>, 'viajero'&mdash; es un bot programado con Python que, para la elaboraci&oacute;n de contenido, emplea un prompt de ChatGPT.</p>
+<p>Todos los d&iacute;as, <em>botcito</em> viaja en el tiempo y te recuerda qu&eacute; evento pol&iacute;tico tuvo lugar un d&iacute;a como hoy pero en un a&ntilde;o aleatorio del pasado.</p>
