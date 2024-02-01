@@ -55,8 +55,8 @@ def tweet(mensaje):
 # Obtener ubicación y fecha actual
 
 fecha_actual = datetime.datetime.now()
-dia = fecha_actual.strftime("%d")
-mes = fecha_actual.strftime("%m")
+dia = str(int(fecha_actual.strftime("%d")))
+mes = str(int(fecha_actual.strftime("%m"))) 
 mes_letras = fecha_actual.strftime("%B")
 
 # Generar el prompt y publicar la respuesta en TwitterX
